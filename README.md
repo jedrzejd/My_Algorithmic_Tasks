@@ -10,7 +10,6 @@
 ### These are my algorithmic tasks that were prepared for competitions:
 - "Świąteczny Konkurs w Programowaniu Zespołowym 2018"
 - "Zawody w Programowaniu Zespołowym szkół średnich 2019" as "Podlaskie Zawodowy Programistyczne"
-- 
 
 ## Structure
 
