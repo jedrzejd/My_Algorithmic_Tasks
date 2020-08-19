@@ -26,7 +26,7 @@
 ## Tasks Descriptions
 
 - **Firma** - Mathematical task with using lcm and gcd.\
-Additionally, in this task folder exist a `gen.cpp`, which generation input and output files to this task.
+Additionally, in this task folder there is a file named gen.cpp, which generates input and output files.
 
 - **Melonik**  - Graph task with using dfs and binary search 
 
